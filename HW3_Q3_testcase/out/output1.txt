@@ -1,0 +1,59 @@
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+invalid command
+invalid command
+invalid command
+username format is invalid
+password format is invalid
+register successful
+password format is invalid
+a user exists with this username
+username format is invalid
+invalid command
+register successful
+register successful
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+username format is invalid
+username format is invalid
+password format is invalid
+incorrect password
+no user exists with this username
+login successful
+logout successful
+username format is invalid
+password format is invalid
+username format is invalid
+no user exists with this username
+incorrect password
+removed a successfully
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+1235
+a
+a_
+ali
+ali1
+ali10
+ali11
+az
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+program ended

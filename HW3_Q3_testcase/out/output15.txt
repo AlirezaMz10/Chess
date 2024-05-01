@@ -1,0 +1,954 @@
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+register successful
+login successful
+new game started successfully between a and ali with limit 2
+selected
+moved
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+selected
+moved
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+  |Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+Pb|  |  |  |  |  |  |  |
+Pw|  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+turn completed
+draw
+invalid command
+logout successful
+a
+ali
+b
+c
+d
+dummy
+e
+f
+g
+h
+i
+mohammad
+login successful
+new game started successfully between a and dummy with limit 0
+selected
+moved
+turn completed
+selected
+moved
+invalid command
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|  |Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |Pb|  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+  |Pb|Pb|  |Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+Pb|  |  |Pb|  |  |  |  |
+  |  |  |Pw|Qw|  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|  |Kw|Bw|Nw|Rw|
+turn completed
+selected
+moved
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+  |Pb|Pb|  |Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |Pb|  |  |  |  |
+Pb|  |  |Pw|Qw|  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|  |Kw|Bw|Nw|Rw|
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+  |Pb|Pb|  |Pb|Pb|Pb|Pb|
+  |  |  |  |Qw|  |  |  |
+  |  |  |Pb|  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+Pb|  |  |  |  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|  |Kw|Bw|Nw|Rw|
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+Rb|Nb|Bb|Qb|Qw|Bb|Nb|Rb|
+  |Pb|Pb|  |Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |Pb|  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|Pb|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|  |Kw|Bw|Nw|Rw|
+turn completed
+player a with color white won
+a 4 1 1 0
+ali 1 0 1 0
+b 0 0 0 0
+c 0 0 0 0
+d 0 0 0 0
+e 0 0 0 0
+f 0 0 0 0
+g 0 0 0 0
+h 0 0 0 0
+i 0 0 0 0
+mohammad 0 0 0 0
+dummy 0 0 0 1
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+logout successful
+a user exists with this username
+register successful
+incorrect password
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+a user exists with this username
+a user exists with this username
+incorrect password
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+invalid command
+invalid command
+invalid command
+username format is invalid
+password format is invalid
+register successful
+password format is invalid
+a user exists with this username
+username format is invalid
+invalid command
+register successful
+register successful
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+username format is invalid
+username format is invalid
+password format is invalid
+incorrect password
+no user exists with this username
+login successful
+logout successful
+username format is invalid
+password format is invalid
+username format is invalid
+incorrect password
+incorrect password
+removed xyz successfully
+register successful
+a user exists with this username
+register successful
+register successful
+register successful
+register successful
+1235
+a
+abbas
+ali
+ali1
+ali10
+ali11
+b
+c
+d
+dummy
+e
+f
+g
+h
+i
+mohammad
+xyz
+xyz_
+xyzz
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+invalid command
+invalid command
+invalid command
+username format is invalid
+password format is invalid
+a user exists with this username
+password format is invalid
+a user exists with this username
+username format is invalid
+invalid command
+a user exists with this username
+a user exists with this username
+invalid command
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+username format is invalid
+username format is invalid
+password format is invalid
+incorrect password
+no user exists with this username
+login successful
+logout successful
+username format is invalid
+password format is invalid
+username format is invalid
+incorrect password
+incorrect password
+removed xyz successfully
+register successful
+a user exists with this username
+a user exists with this username
+a user exists with this username
+a user exists with this username
+a user exists with this username
+1235
+a
+abbas
+ali
+ali1
+ali10
+ali11
+b
+c
+d
+dummy
+e
+f
+g
+h
+i
+mohammad
+xyz
+xyz_
+xyzz
+register [username] [password]
+login [username] [password]
+remove [username] [password]
+list_users
+help
+exit
+a user exists with this username
+a user exists with this username
+login successful
+username format is invalid
+username format is invalid
+number should be positive to have a limit or 0 for no limit
+you must choose another player to start a game
+no user exists with this username
+new game started successfully between xyz and ali with limit 0
+you have forfeited
+player ali with color black won
+new game started successfully between xyz and ali with limit 2147483647
+you have forfeited
+player ali with color black won
+1235
+a
+abbas
+ali
+ali1
+ali10
+ali11
+b
+c
+d
+dummy
+e
+f
+g
+h
+i
+mohammad
+xyz
+xyz_
+xyzz
+new_game [username] [limit]
+scoreboard
+list_users
+help
+logout
+logout successful
+a user exists with this username
+a user exists with this username
+login successful
+username format is invalid
+username format is invalid
+number should be positive to have a limit or 0 for no limit
+you must choose another player to start a game
+no user exists with this username
+new game started successfully between xyz and ali with limit 0
+you have forfeited
+player ali with color black won
+new game started successfully between xyz and ali with limit 2147483647
+you have forfeited
+player ali with color black won
+1235
+a
+abbas
+ali
+ali1
+ali10
+ali11
+b
+c
+d
+dummy
+e
+f
+g
+h
+i
+mohammad
+xyz
+xyz_
+xyzz
+new_game [username] [limit]
+scoreboard
+list_users
+help
+logout
+logout successful
+a user exists with this username
+a user exists with this username
+login successful
+username format is invalid
+username format is invalid
+number should be positive to have a limit or 0 for no limit
+you must choose another player to start a game
+no user exists with this username
+new game started successfully between xyz and ali with limit 0
+you have forfeited
+player ali with color black won
+new game started successfully between xyz and ali with limit 2147483647
+you have forfeited
+player ali with color black won
+1235
+a
+abbas
+ali
+ali1
+ali10
+ali11
+b
+c
+d
+dummy
+e
+f
+g
+h
+i
+mohammad
+xyz
+xyz_
+xyzz
+new_game [username] [limit]
+scoreboard
+list_users
+help
+logout
+logout successful
+program ended

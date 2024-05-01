@@ -1,0 +1,320 @@
+register successful
+register successful
+login successful
+new game started successfully between ali and abbas with limit 0
+select [x],[y]
+deselect
+move [x],[y]
+next_turn
+show_turn
+undo
+undo_number
+show_moves [-all]
+show_killed [-all]
+show_board
+help
+forfeit
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+turn completed
+selected
+moved
+turn completed
+selected
+rival piece destroyed
+it is player abbas turn with color black
+Nb killed in spot 3,3
+Nw killed in spot 3,3
+Pb killed in spot 5,5
+Pb killed in spot 3,3
+Pw killed in spot 3,3
+Qb killed in spot 3,3
+Qw killed in spot 3,3
+Nb killed in spot 4,5
+Bw killed in spot 4,5
+Pb killed in spot 6,3
+Bb killed in spot 4,2
+Nw killed in spot 4,2
+Rb killed in spot 6,2
+Rw killed in spot 6,2
+Pb killed in spot 4,5
+Pb killed in spot 6,6
+Pw killed in spot 4,7
+Pw killed in spot 3,8
+Pb killed in spot 3,8
+Pw killed in spot 6,6
+Pb killed in spot 6,7
+Pw killed in spot 4,5
+Pb killed in spot 6,2
+Pw killed in spot 4,1
+Pw killed in spot 4,5
+Pw killed in spot 3,2
+Kw killed in spot 1,4
+Nb killed in spot 3,3
+Pb killed in spot 5,5
+Pb killed in spot 3,3
+Qb killed in spot 3,3
+Nb killed in spot 4,5
+Pb killed in spot 6,3
+Bb killed in spot 4,2
+Rb killed in spot 6,2
+Pb killed in spot 4,5
+Pb killed in spot 6,6
+Pb killed in spot 3,8
+Pb killed in spot 6,7
+Pb killed in spot 6,2
+  |  |  |  |Kb|  |  |  |
+  |  |  |  |  |  |  |  |
+  |Bw|  |  |  |  |  |  |
+  |  |  |  |  |  |  |Rw|
+  |  |  |  |Rb|  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |Bb|  |  |  |  |
+turn completed
+player abbas with color black won
+logout successful
+program ended

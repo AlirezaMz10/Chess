@@ -1,0 +1,289 @@
+register a 1
+register b 1
+register c 1
+register d 1
+login a 1
+new_game b 0
+select 2,4
+move 4,4
+undo
+deselect
+select 2,4
+move 3,4
+undo
+next_turn
+show_board
+show_turn
+select 7,2
+move 5,2
+undo
+undo
+undo
+undo
+move 6,2
+show_moves
+next_turn
+show_moves
+show_moves -all
+show_killed
+show_killed -all
+undo number
+select 2,2
+move 4,2
+undo_number
+show_moves
+show_turn
+show_moves -all
+forfeit
+scoreboard
+list_users
+new_game c 0
+forfeit
+new_game d 2
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+new_game d 3
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+select 2,6
+move 4,6
+undo
+move 3,5
+move 3,6
+next_turn
+new_game b 0
+select 2,4
+move 4,4
+undo
+deselect
+select 2,4
+move 3,4
+undo
+next_turn
+show_board
+show_turn
+select 7,2
+move 5,2
+undo
+undo
+undo
+undo
+move 6,2
+show_moves
+next_turn
+show_moves
+show_moves -all
+show_killed
+show_killed -all
+undo number
+select 2,2
+move 4,2
+undo_number
+show_moves
+show_turn
+show_moves -all
+forfeit
+scoreboard
+list_users
+new_game c 0
+forfeit
+new_game d 2
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+new_game d 3
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+select 2,6
+move 4,6
+undo
+move 3,5
+move 3,6
+next_turn
+new_game b 0
+select 2,4
+move 4,4
+undo
+deselect
+select 2,4
+move 3,4
+undo
+next_turn
+show_board
+show_turn
+select 7,2
+move 5,2
+undo
+undo
+undo
+undo
+move 6,2
+show_moves
+next_turn
+show_moves
+show_moves -all
+show_killed
+show_killed -all
+undo number
+select 2,2
+move 4,2
+undo_number
+show_moves
+show_turn
+show_moves -all
+forfeit
+scoreboard
+list_users
+new_game c 0
+forfeit
+new_game d 2
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+new_game d 3
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+select 2,6
+move 4,6
+undo
+move 3,5
+move 3,6
+next_turn
+new_game b 0
+select 2,4
+move 4,4
+undo
+deselect
+select 2,4
+move 3,4
+undo
+next_turn
+show_board
+show_turn
+select 7,2
+move 5,2
+undo
+undo
+undo
+undo
+move 6,2
+show_moves
+next_turn
+show_moves
+show_moves -all
+show_killed
+show_killed -all
+undo number
+select 2,2
+move 4,2
+undo_number
+show_moves
+show_turn
+show_moves -all
+forfeit
+scoreboard
+list_users
+new_game c 0
+forfeit
+new_game d 2
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+new_game d 3
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+select 2,6
+move 4,6
+undo
+move 3,5
+move 3,6
+next_turn
+new_game b 0
+select 2,4
+move 4,4
+undo
+deselect
+select 2,4
+move 3,4
+undo
+next_turn
+show_board
+show_turn
+select 7,2
+move 5,2
+undo
+undo
+undo
+undo
+move 6,2
+show_moves
+next_turn
+show_moves
+show_moves -all
+show_killed
+show_killed -all
+undo number
+select 2,2
+move 4,2
+undo_number
+show_moves
+show_turn
+show_moves -all
+forfeit
+scoreboard
+list_users
+new_game c 0
+forfeit
+new_game d 2
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+new_game d 3
+select 2,2
+move 4,2
+next_turn
+select 7,2
+move 5,2
+next_turn
+select 2,6
+move 4,6
+undo
+move 3,5
+move 3,6
+next_turn
+scoreboard
+logout
+exit
+

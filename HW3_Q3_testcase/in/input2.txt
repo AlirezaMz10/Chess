@@ -1,0 +1,17 @@
+register xyz hjk
+register ali momeni
+login xyz hjk
+new_game xyz? 0
+new_game xyz? -1
+new_game xyz -1
+new_game xyz 12
+new_game yius 0
+new_game ali 0
+forfeit
+new_game ali 2147483647
+forfeit
+list_users
+help
+logout
+exit
+

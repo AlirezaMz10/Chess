@@ -1,0 +1,386 @@
+register successful
+register successful
+register successful
+register successful
+login successful
+new game started successfully between a and b with limit 0
+selected
+moved
+undo completed
+deselected
+selected
+moved
+you have used your undo for this turn
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+it is player b turn with color black
+selected
+moved
+undo completed
+you must move before undo
+you must move before undo
+you must move before undo
+moved
+Pb 7,2 to 6,2
+turn completed
+Pw 2,4 to 3,4
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+invalid command
+selected
+moved
+you have 1 undo moves
+Pw 2,4 to 3,4
+Pw 2,2 to 4,2
+it is player a turn with color white
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+Pw 2,2 to 4,2
+you have forfeited
+player b with color black won
+b 2 1 0 0
+c 0 0 0 0
+d 0 0 0 0
+a -1 0 0 1
+a
+b
+c
+d
+new game started successfully between a and c with limit 0
+you have forfeited
+player c with color black won
+new game started successfully between a and d with limit 2
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+draw
+new game started successfully between a and d with limit 3
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+undo completed
+cannot move to the spot
+moved
+turn completed
+draw
+new game started successfully between a and b with limit 0
+selected
+moved
+undo completed
+deselected
+selected
+moved
+you have used your undo for this turn
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+it is player b turn with color black
+selected
+moved
+undo completed
+you must move before undo
+you must move before undo
+you must move before undo
+moved
+Pb 7,2 to 6,2
+turn completed
+Pw 2,4 to 3,4
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+invalid command
+selected
+moved
+you have 1 undo moves
+Pw 2,4 to 3,4
+Pw 2,2 to 4,2
+it is player a turn with color white
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+Pw 2,2 to 4,2
+you have forfeited
+player b with color black won
+b 4 2 0 0
+c 2 1 0 0
+d 2 0 2 0
+a -1 0 2 3
+a
+b
+c
+d
+new game started successfully between a and c with limit 0
+you have forfeited
+player c with color black won
+new game started successfully between a and d with limit 2
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+draw
+new game started successfully between a and d with limit 3
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+undo completed
+cannot move to the spot
+moved
+turn completed
+draw
+new game started successfully between a and b with limit 0
+selected
+moved
+undo completed
+deselected
+selected
+moved
+you have used your undo for this turn
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+it is player b turn with color black
+selected
+moved
+undo completed
+you must move before undo
+you must move before undo
+you must move before undo
+moved
+Pb 7,2 to 6,2
+turn completed
+Pw 2,4 to 3,4
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+invalid command
+selected
+moved
+you have 1 undo moves
+Pw 2,4 to 3,4
+Pw 2,2 to 4,2
+it is player a turn with color white
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+Pw 2,2 to 4,2
+you have forfeited
+player b with color black won
+b 6 3 0 0
+c 4 2 0 0
+d 4 0 4 0
+a -1 0 4 5
+a
+b
+c
+d
+new game started successfully between a and c with limit 0
+you have forfeited
+player c with color black won
+new game started successfully between a and d with limit 2
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+draw
+new game started successfully between a and d with limit 3
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+undo completed
+cannot move to the spot
+moved
+turn completed
+draw
+new game started successfully between a and b with limit 0
+selected
+moved
+undo completed
+deselected
+selected
+moved
+you have used your undo for this turn
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+it is player b turn with color black
+selected
+moved
+undo completed
+you must move before undo
+you must move before undo
+you must move before undo
+moved
+Pb 7,2 to 6,2
+turn completed
+Pw 2,4 to 3,4
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+invalid command
+selected
+moved
+you have 1 undo moves
+Pw 2,4 to 3,4
+Pw 2,2 to 4,2
+it is player a turn with color white
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+Pw 2,2 to 4,2
+you have forfeited
+player b with color black won
+b 8 4 0 0
+c 6 3 0 0
+d 6 0 6 0
+a -1 0 6 7
+a
+b
+c
+d
+new game started successfully between a and c with limit 0
+you have forfeited
+player c with color black won
+new game started successfully between a and d with limit 2
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+draw
+new game started successfully between a and d with limit 3
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+undo completed
+cannot move to the spot
+moved
+turn completed
+draw
+new game started successfully between a and b with limit 0
+selected
+moved
+undo completed
+deselected
+selected
+moved
+you have used your undo for this turn
+turn completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |Pw|  |  |  |  |
+Pw|Pw|Pw|  |Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+it is player b turn with color black
+selected
+moved
+undo completed
+you must move before undo
+you must move before undo
+you must move before undo
+moved
+Pb 7,2 to 6,2
+turn completed
+Pw 2,4 to 3,4
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+invalid command
+selected
+moved
+you have 1 undo moves
+Pw 2,4 to 3,4
+Pw 2,2 to 4,2
+it is player a turn with color white
+Pw 2,4 to 3,4
+Pb 7,2 to 6,2
+Pw 2,2 to 4,2
+you have forfeited
+player b with color black won
+b 10 5 0 0
+c 8 4 0 0
+d 8 0 8 0
+a -1 0 8 9
+a
+b
+c
+d
+new game started successfully between a and c with limit 0
+you have forfeited
+player c with color black won
+new game started successfully between a and d with limit 2
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+draw
+new game started successfully between a and d with limit 3
+selected
+moved
+turn completed
+selected
+moved
+turn completed
+selected
+moved
+undo completed
+cannot move to the spot
+moved
+turn completed
+draw
+b 10 5 0 0
+c 10 5 0 0
+d 10 0 10 0
+a 0 0 10 10
+logout successful
+program ended

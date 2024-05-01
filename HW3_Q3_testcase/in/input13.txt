@@ -1,0 +1,1126 @@
+register a 1
+register b 1
+register c 1
+register d 1
+register e 1
+register f 1
+register g 1
+register h 1
+register i 1
+register dummy 1
+list_users
+login a 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login c 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login b 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login e 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login d 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login g
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login f 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login g 1
+new_game dummy 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login a 1
+new_game d 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game g 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game f 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+logout
+login a 1
+new_game b 1
+select 2,1
+move 3,1
+next_turn
+new_game b 1
+select 2,1
+move 3,1
+next_turn
+new_game b 1
+select 2,1
+move 3,1
+next_turn
+new_game g 1
+select 2,1
+move 3,1
+next_turn
+scoreboard
+logout
+register l1 1
+register l2 1
+login a 1
+new_game l2 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game l2 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game l1 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game l1 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game l1 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game f 0
+select 2,4
+move 4,4
+next_turn
+select 7,4
+move 5,4
+next turn
+next_turn
+show_board
+select 1,4
+move 3,4
+next_turn
+select 7,1
+move 5,1
+next_turn
+select 3,4
+move 4,5
+show_board
+next_turn
+select 5,1
+move 4,1
+next_turn
+show_board
+select 4,5
+move 6,5
+next_turn
+select 4,1
+move 3,1
+next_turn
+show_board
+select 6,5
+move 7,4
+next_turn
+select 3,1
+move 2,2
+next_turn
+select 7,4
+move 8,5
+show_board
+next_turn
+scoreboard
+new_game g 0
+select 2,1
+move 3,1
+next_turn
+forfeit
+scoreboard
+logout
+exit
+

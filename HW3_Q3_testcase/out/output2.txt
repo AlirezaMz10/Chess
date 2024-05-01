@@ -1,0 +1,23 @@
+register successful
+register successful
+login successful
+username format is invalid
+username format is invalid
+number should be positive to have a limit or 0 for no limit
+you must choose another player to start a game
+no user exists with this username
+new game started successfully between xyz and ali with limit 0
+you have forfeited
+player ali with color black won
+new game started successfully between xyz and ali with limit 2147483647
+you have forfeited
+player ali with color black won
+ali
+xyz
+new_game [username] [limit]
+scoreboard
+list_users
+help
+logout
+logout successful
+program ended

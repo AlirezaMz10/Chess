@@ -1,0 +1,45 @@
+register successful
+register successful
+login successful
+new game started successfully between a and b with limit 1
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+selected
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+moved
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|  |Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+undo completed
+moved
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|  |Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+invalid command
+you have forfeited
+player b with color black won
+b 2 1 0 0
+a -1 0 0 1
+logout successful
+program ended

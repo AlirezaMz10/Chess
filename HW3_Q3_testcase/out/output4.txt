@@ -1,0 +1,138 @@
+password format is invalid
+username format is invalid
+register successful
+register successful
+username format is invalid
+password format is invalid
+login successful
+invalid command
+invalid command
+new game started successfully between a and b with limit 0
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+no piece is selected
+no piece on this spot
+you can only select one of your pieces
+no piece is selected
+selected
+deselected
+selected
+selected
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+wrong coordination
+you must move then proceed to next turn
+you must move before undo
+it is player a turn with color white
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+moved
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+undo completed
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|Pw|Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+cannot move to the spot
+cannot move to the spot
+cannot move to the spot
+cannot move to the spot
+cannot move to the spot
+cannot move to the spot
+cannot move to the spot
+moved
+you have 1 undo moves
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+Pb|Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+Pw|  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+you have used your undo for this turn
+turn completed
+do not have any selected piece
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+invalid command
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+cannot move to the spot
+selected
+moved
+Pb 7,1 to 5,1
+Pw 2,1 to 4,1
+Pb 7,1 to 5,1
+turn completed
+Pw 2,1 to 4,1
+Pw 2,1 to 4,1
+Pb 7,1 to 5,1
+Rb|Nb|Bb|Qb|Kb|Bb|Nb|Rb|
+  |Pb|Pb|Pb|Pb|Pb|Pb|Pb|
+  |  |  |  |  |  |  |  |
+Pb|  |  |  |  |  |  |  |
+Pw|  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |Pw|Pw|Pw|Pw|Pw|Pw|Pw|
+Rw|Nw|Bw|Qw|Kw|Bw|Nw|Rw|
+you must move then proceed to next turn
+you have forfeited
+player b with color black won
+b 2 1 0 0
+a -1 0 0 1
+logout successful
+program ended
